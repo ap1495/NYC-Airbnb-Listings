@@ -1,0 +1,9 @@
+StackingAveragedModels(base_models=(RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+           max_features='auto', max_leaf_nodes=None,
+           min_impurity_decrease=0.0, min_impurity_split=None,
+           min_samples_leaf=1, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estim...None, subsample=1.0, tol=0.0001,
+             validation_fraction=0.1, verbose=0, warm_start=False)),
+            meta_model=Lasso(alpha=0.007, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)) 
